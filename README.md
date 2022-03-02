@@ -7,6 +7,10 @@ TERM PROJECT
 Anant Ojha 
 <br>
 anantojha@camil.carleton.ca
+<br>
+
+https://user-images.githubusercontent.com/46407205/152672577-c3ab6bc1-130b-4edf-8b2c-462d6e74419f.mov
+
 
 Run Instructions:
 
@@ -24,8 +28,3 @@ GET API KEY: (if necessary, provided api key may work fine)
 - Create an API key for project
 - Enable Youtube Data API v3
 - Replace API key in /network/YoutubeAPI.java file 
-
-
-
-https://user-images.githubusercontent.com/46407205/152672577-c3ab6bc1-130b-4edf-8b2c-462d6e74419f.mov
-
