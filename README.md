@@ -1,8 +1,7 @@
 # Android Youtube Player
 
 
-COMP 2601A
-TERM PROJECT
+### COMP 2601 Mobile Applications Term Project
 
 Anant Ojha 
 <br>
@@ -12,8 +11,7 @@ anantojha@camil.carleton.ca
 https://user-images.githubusercontent.com/46407205/152672577-c3ab6bc1-130b-4edf-8b2c-462d6e74419f.mov
 
 
-Run Instructions:
-
+### Run Instructions:
 - Open the app in Visual Studio
 - Clean the project (Build -> Clean Project)
 - Build the project 
@@ -21,8 +19,7 @@ Run Instructions:
 
 
 
-GET API KEY: (if necessary, provided api key may work fine)
-
+### GET API KEY: (if necessary, provided api key may work fine)
 - Create a google develops account	(https://console.cloud.google.com)
 - Create a new project 
 - Create an API key for project
