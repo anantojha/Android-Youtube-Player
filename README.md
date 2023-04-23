@@ -1,8 +1,6 @@
 # Android Youtube Player
 
 
-### COMP 2601 Mobile Applications Term Project
-
 Anant Ojha 
 <br>
 anantojha@camil.carleton.ca
