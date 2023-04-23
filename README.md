@@ -7,6 +7,9 @@ Anant Ojha
 <br>
 anantojha@camil.carleton.ca
 <br>
+<br>
+
+<img src="images/Home.png" width="250" height="500">
 
 
 #### Run Instructions:
@@ -25,9 +28,6 @@ anantojha@camil.carleton.ca
 
 
 <br>
-
-#### HOME 
-<img src="images/Home.png" width="250" height="500">
 
 #### VIDEO
 <img src="images/Video.png" width="250" height="500">
